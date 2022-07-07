@@ -1,0 +1,15 @@
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/bin/Debug/net6.0/MathOperations3.0
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/bin/Debug/net6.0/MathOperations3.0.deps.json
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/bin/Debug/net6.0/MathOperations3.0.runtimeconfig.json
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/bin/Debug/net6.0/MathOperations3.0.dll
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/bin/Debug/net6.0/MathOperations3.0.pdb
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/obj/Debug/net6.0/MathOperations3.0.csproj.AssemblyReference.cache
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/obj/Debug/net6.0/MathOperations3.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/obj/Debug/net6.0/MathOperations3.0.AssemblyInfoInputs.cache
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/obj/Debug/net6.0/MathOperations3.0.AssemblyInfo.cs
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/obj/Debug/net6.0/MathOperations3.0.csproj.CoreCompileInputs.cache
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/obj/Debug/net6.0/MathOperations3.0.dll
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/obj/Debug/net6.0/refint/MathOperations3.0.dll
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/obj/Debug/net6.0/MathOperations3.0.pdb
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/obj/Debug/net6.0/MathOperations3.0.genruntimeconfig.cache
+/Users/viktornazilin/Projects/MathOperations3.0/MathOperations3.0/obj/Debug/net6.0/ref/MathOperations3.0.dll
